@@ -1,0 +1,577 @@
+{
+    "Currency": "USD",
+    "Meters": [
+        {
+            "EffectiveDate": "2019-04-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "b9ed535b-20c8-4898-b2f9-04e03f32aaf2",
+            "MeterName": "D11 v2/DS11 v2 Low Priority",
+            "MeterRates": {
+                "0": 0.0379
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2016-09-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "4de4ab44-1e88-480c-b560-f091f5e54f5a",
+            "MeterName": "D14 v2/DS14 v2",
+            "MeterRates": {
+                "0": 1.518
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-03-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "629cdb60-33a8-40ce-b13d-8a7ed167a86b",
+            "MeterName": "D2 v2/DS2 v2 Low Priority",
+            "MeterRates": {
+                "0": 0.027
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2016-09-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "4d6302b1-a3cd-49c7-96bb-09bc268b59ee",
+            "MeterName": "D13 v2/DS13 v2",
+            "MeterRates": {
+                "0": 0.759
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-03-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "2d85765a-76ba-485b-96d2-3a905ebca61f",
+            "MeterName": "D3 v2/DS3 v2 Low Priority",
+            "MeterRates": {
+                "0": 0.054
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2019-06-10T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "9ff7094f-f529-4a12-ba88-80aaee6e3366",
+            "MeterName": "D15i v2/DS15i v2",
+            "MeterRates": {
+                "0": 1.897
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2016-09-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "040bce04-82d6-4337-a7dd-50a8971c4e79",
+            "MeterName": "D4 v2/DS4 v2",
+            "MeterRates": {
+                "0": 0.544
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2016-09-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "b66176d3-cbc3-46ee-ab4d-068903b8d283",
+            "MeterName": "D5 v2/DS5 v2",
+            "MeterRates": {
+                "0": 1.087
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2016-09-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "209fb2f9-c45c-4e6c-bf9d-954686fd3c2c",
+            "MeterName": "D3 v2/DS3 v2",
+            "MeterRates": {
+                "0": 0.272
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-03-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "7699830e-089f-45ac-9f74-36899f1f6583",
+            "MeterName": "D5 v2/DS5 v2 Low Priority",
+            "MeterRates": {
+                "0": 0.217
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-03-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "587444d8-f17e-4c23-9823-31b88fed7907",
+            "MeterName": "D14 v2/DS14 v2 Low Priority",
+            "MeterRates": {
+                "0": 0.304
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-03-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "b5e367e7-83fb-4014-9ff6-9c5696e02b6d",
+            "MeterName": "D13 v2/DS13 v2 Low Priority",
+            "MeterRates": {
+                "0": 0.152
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2016-09-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "0c3624ee-228f-4363-9a44-bdc7dbd875c6",
+            "MeterName": "D11 v2/DS11 v2",
+            "MeterRates": {
+                "0": 0.19
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2019-04-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "8032171e-4cf6-42e7-99de-fbc9cdb6f7f7",
+            "MeterName": "D1 v2/DS1 v2 Low Priority",
+            "MeterRates": {
+                "0": 0.0136
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2019-08-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "f74a555b-a7fd-43f8-bfd9-e9b03106a5a3",
+            "MeterName": "D1 v2/DS1 v2",
+            "MeterRates": {
+                "0": 0.0679
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2019-04-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "97cd3277-58d7-48a0-8aff-233360e5ddb1",
+            "MeterName": "D12 v2/DS12 v2 Low Priority",
+            "MeterRates": {
+                "0": 0.0759
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2016-09-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "f8cc8e26-97d3-468e-a156-ee9f80e395c0",
+            "MeterName": "D2 v2/DS2 v2",
+            "MeterRates": {
+                "0": 0.136
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2016-09-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "c0edfd79-e322-4833-bff8-778e609c26ec",
+            "MeterName": "D12 v2/DS12 v2",
+            "MeterRates": {
+                "0": 0.379
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2016-09-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "50088234-abcb-41a1-aa2c-9ec7a49d7adc",
+            "MeterName": "D15 v2/DS15 v2",
+            "MeterRates": {
+                "0": 1.897
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-03-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "9d5cdcf2-cd03-465a-b05e-6e13a2e27a13",
+            "MeterName": "D4 v2/DS4 v2 Low Priority",
+            "MeterRates": {
+                "0": 0.109
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-03-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "e15c118b-5e43-43dd-9a6f-b0b64721c680",
+            "MeterName": "D15 v2/DS15 v2 Low Priority",
+            "MeterRates": {
+                "0": 0.379
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv2/DSv2 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-11-03T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "4558f69a-fd4a-4685-a142-b47d46ab9226",
+            "MeterName": "D2 v3/D2s v3 Low Priority",
+            "MeterRates": {
+                "0": 0.024
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-06-17T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "fde73c8a-dc9f-41b1-8178-c1cc6309c6e3",
+            "MeterName": "D32 v3/D32s v3",
+            "MeterRates": {
+                "0": 1.92
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-11-03T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "0e2c48c7-d234-4060-8179-7fc9cc322cce",
+            "MeterName": "D4 v3/D4s v3 Low Priority",
+            "MeterRates": {
+                "0": 0.048
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-06-17T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "7766bed4-f4db-4593-9cc5-ebff48957117",
+            "MeterName": "D4 v3/D4s v3",
+            "MeterRates": {
+                "0": 0.24
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2019-05-09T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "a75b07cb-cbd3-40fb-af0b-975992659f04",
+            "MeterName": "D48 v3/D48s v3 Low Priority",
+            "MeterRates": {
+                "0": 0.576
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-11-03T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "bfc449fb-2afa-4af6-8195-08ce17e241a5",
+            "MeterName": "D64 v3/D64s v3 Low Priority",
+            "MeterRates": {
+                "0": 0.768
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-11-03T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "2ea14b8b-6ed2-4179-892f-b8091ae3c0fb",
+            "MeterName": "D32 v3/D32s v3 Low Priority",
+            "MeterRates": {
+                "0": 0.384
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2019-05-09T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "dc7d3741-f0ab-498e-bca1-9cc8b90dfc45",
+            "MeterName": "D48 v3/D48s v3",
+            "MeterRates": {
+                "0": 2.88
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-11-03T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "515aa48f-c98c-4134-a27f-14ec5eff7045",
+            "MeterName": "D16 v3/D16s v3 Low Priority",
+            "MeterRates": {
+                "0": 0.192
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-06-17T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "9700c367-3a1d-4b51-925e-89a5b9526f25",
+            "MeterName": "D16 v3/D16s v3",
+            "MeterRates": {
+                "0": 0.96
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-06-17T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "f052e8d7-f936-4165-af21-bf7c12c22216",
+            "MeterName": "D2 v3/D2s v3",
+            "MeterRates": {
+                "0": 0.12
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-06-17T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "84bc4e0a-ba1c-4fd8-891a-2c621dd9ba99",
+            "MeterName": "D8 v3/D8s v3",
+            "MeterRates": {
+                "0": 0.48
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-11-03T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "33edd6cc-6235-43e3-bfd5-e6ad191804c1",
+            "MeterName": "D8 v3/D8s v3 Low Priority",
+            "MeterRates": {
+                "0": 0.096
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2017-06-17T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Virtual Machines",
+            "MeterId": "a707fcf5-ab16-4489-8226-f980e88737e3",
+            "MeterName": "D64 v3/D64s v3",
+            "MeterRates": {
+                "0": 3.84
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Dv3/DSv3 Series",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2018-05-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Azure Database for PostgreSQL",
+            "MeterId": "955cb4f4-c996-4bdd-9bdb-7d8bc306bed4",
+            "MeterName": "vCore",
+            "MeterRates": {
+                "0": 0.1042
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "General Purpose - Compute Gen4",
+            "MeterTags": [],
+            "Unit": "1 Hour"
+        },
+        {
+            "EffectiveDate": "2019-04-01T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Storage",
+            "MeterId": "6dd0e1ce-820e-4c4a-87fa-51a9320b06c8",
+            "MeterName": "Hot ZRS Data Stored",
+            "MeterRates": {
+                "0": 0.024,
+                "51200": 0.023,
+                "512000": 0.0221
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "Azure Data Lake Storage Gen2 Hierarchical Namespace",
+            "MeterTags": [],
+            "Unit": "1 GB/Month"
+        },
+        {
+            "EffectiveDate": "2019-04-30T00:00:00Z",
+            "IncludedQuantity": 0.0,
+            "MeterCategory": "Azure NetApp Files",
+            "MeterId": "eda83171-1090-4e5a-baeb-6dd06c79535e",
+            "MeterName": "Standard Capacity",
+            "MeterRates": {
+                "0": 0.000202
+            },
+            "MeterRegion": "EU West",
+            "MeterStatus": "Active",
+            "MeterSubCategory": "",
+            "MeterTags": [],
+            "Unit": "1 GiB/Hour"
+        }
+    ]
+}
